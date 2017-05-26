@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=Vehicle(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Vehicle\r\n
+comment1.params=
+comment1.target=java.lang.String\ getStatus()
+comment1.text=\r\n\ Return\ the\ status\ of\ this\ shuttle.\r\n\ @return\ The\ status.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getID()
+comment2.text=\r\n\ Return\ the\ ID\ of\ the\ shuttle.\r\n\ @return\ The\ ID\ of\ the\ shuttle.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLocation()
+comment3.text=\r\n\ Return\ the\ location\ of\ the\ shuttle.\r\n\ @return\ The\ location\ of\ the\ shuttle.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDestination()
+comment4.text=\r\n\ Return\ the\ destination\ of\ the\ shuttle.\r\n\ @return\ The\ destination\ of\ the\ shuttle.\r\n
+comment5.params=
+comment5.target=void\ arrived()
+comment5.text=\r\n\ Indicate\ that\ this\ vehicle\ has\ arrived\ at\ its\ destination.\r\n\ As\ a\ result,\ it\ will\ be\ free.\r\n
+numComments=6
